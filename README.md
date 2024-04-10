@@ -1,17 +1,11 @@
-<p align="left">
-  <a href="https://github.com/tomyshogo">
-    <img height="20" src="https://komarev.com/ghpvc/?username=tomyshogo" />
-  </a>
-  <a href="https://github.com/tomyshogo">
-    <img height="20" src="https://img.shields.io/github/followers/tomyshogo?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/tomyshogo">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/tomyshogo/posts.svg" />
-  </a>
-  <a href="http://qiita.com/tomyshogo">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/tomyshogo/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/tomyshogo">
-    <img height="20" src="https://badgen.org/img/zenn/tomyshogo/articles?style=plastic" />
-  </a>
-</p>
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=tomyshogo&column=8&theme=gruvbox&no-frame=true)
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomyshogo&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomyshogo&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomyshogo&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomyshogo&show_icons=true&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tomyshogo&theme=dracula&utcOffset=9)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomyshogo&langs_count=5&hide=html,cmake&theme=dracula)
+
